@@ -1,7 +1,6 @@
 ## Sayeed Ahmed
 
 👨‍💻 **Software Developer & Engineer**
-   **- Demonic Grinder**
 
 🚀 Passionate about coding and always eager to learn and implement new technologies. Skilled in various programming languages including C, C++, Java, Python, and SQL. With a strong foundation in software development and engineering principles, I am committed to creating efficient and innovative solutions.
 
