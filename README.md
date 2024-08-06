@@ -5,8 +5,13 @@
 🚀 Passionate about coding and always eager to learn and implement new technologies. Skilled in various programming languages including C, C++, Java, Python, and HTML. With a strong foundation in software development, I am committed to creating efficient and innovative solutions.
 
 ### Skills:
-- **Languages:** 🖥️ C, C++, Java, Python, HTML
-- **Development:** 🧩 Software Development, Problem Solving, Object-Oriented Programming
+- **Languages:**
+  [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+  [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+  [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_(programming_language))
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
+  [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
+-  **Development:** 🧩 Software Development, Problem Solving, Object-Oriented Programming
 - **Tools:** 🛠️ Git, VS Code, IntelliJ IDEA, Eclipse
 - **Learning:** 🏗️ React, Tailwind CSS
 
