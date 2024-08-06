@@ -1,12 +1,3 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; text-align: left; padding: 20px;">
-    <h2 style="font-family: 'Roboto', sans-serif; color: #4B8BBE;">Learn from & grind to surpass your mentors and peers, and with time be above all</h2>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21xdng3MzQyZGJ5OXdwbWloMTB5NGo1cXJibDRoaWdpcTRwcWJ4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUA7b4arnbo3THfzi0/giphy.gif" width="100%" alt="Calm Nature Anime">
-  </div>
-</div>
-
 ## Sayeed Ahmed
 
 👨‍💻 **Software Developer**
@@ -32,6 +23,15 @@
 - 🥋 Practicing MMA
 - 📷 Doing photography on the side
 - 👔 Running a fashion business to create custom luxury menswear
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; text-align: left; padding: 20px;">
+    <h2 style="font-family: 'Roboto', sans-serif; color: #4B8BBE;">Learn from & grind to surpass your mentors and peers, and with time be above all</h2>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21xdng3MzQyZGJ5OXdwbWloMTB5NGo1cXJibDRoaWdpcTRwcWJ4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUA7b4arnbo3THfzi0/giphy.gif" width="100%" alt="Calm Nature Anime">
+  </div>
+</div>
 
 <div>
   <h3>🌐 Connect with me:</h3>
