@@ -17,9 +17,8 @@
 
 ### Hobbies:
 - 📸 Modeling with OrangeModels Management
-- 🥊 Hosted a boxing club at TMU (university) where I coach people
-- 📹 Creating fitness content
-- 💪 Going to the gym
+- 🥊 Launched a boxing club at TMU (university) where I manage the club & coach people
+- 💪 Creating fitness content & gym 4 times per week
 - 🥋 Practicing MMA
 
 <div>
