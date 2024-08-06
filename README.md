@@ -1,3 +1,8 @@
+<div style="text-align: center;">
+  <img src="https://media.giphy.com/media/xT0xeMA62E1XIlup68/giphy.gif" width="100%" alt="Calm Nature Anime">
+  <h2 style="font-family: 'Roboto', sans-serif; color: #4B8BBE; margin-top: -50px;">Learn from & grind to surpass your mentors and peers, and with time be above all</h2>
+</div>
+
 ## Sayeed Ahmed
 
 👨‍💻 **Software Developer**
@@ -17,12 +22,12 @@
 
 ### Hobbies:
 - 📸 Modeling with OrangeModels Management
-- 🥊 Launched a boxing club at TMU (university) where I manage the club & coach people
-- 💪 Creating fitness content & gym 4 times per week
+- 🥊 Hosted a boxing club at TMU (university) where I coach people
+- 📹 Creating fitness content
+- 💪 Going to the gym
 - 🥋 Practicing MMA
-- 📷 Wedding shoots and TFP Photography on side
-- 👔 Running a fashion business - custom luxury menswear
-
+- 📷 Doing photography on the side
+- 👔 Running a fashion business to create custom luxury menswear
 
 <div>
   <h3>🌐 Connect with me:</h3>
