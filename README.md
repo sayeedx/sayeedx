@@ -12,7 +12,7 @@
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
   [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 -  **Development:** 🧩 Software Development, Problem Solving, Object-Oriented Programming
-- **Tools:** 🛠️ Git, VS Code, IntelliJ IDEA, Eclipse
+- **Tools:** 🛠️ Git, VS Code, IntelliJ IDEA, Netbeans, Eclipse
 - **Learning:** 🏗️ React, Tailwind CSS
 
 <div>
