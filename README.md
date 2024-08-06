@@ -1,16 +1,16 @@
-## Hi there 👋
+## Sayeed Ahmed
 
-<!--
-**sayeedx/sayeedx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Software Developer**
 
-Here are some ideas to get you started:
+Passionate about coding and always eager to learn and implement new technologies. Skilled in various programming languages including C, C++, Java, Python, and HTML. With a strong foundation in software development, I am committed to creating efficient and innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+- **Languages:** C, C++, Java, Python, HTML
+- **Development:** Software Development, Problem Solving, Object-Oriented Programming
+- **Tools:** Git, VS Code, IntelliJ IDEA, Eclipse
+
+### Connect with me:
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/sayeed-ahmed-b85366232/)
+[ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:asayeed216@gmail.com)
+
+![Baki](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
