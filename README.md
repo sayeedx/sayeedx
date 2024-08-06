@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://media.giphy.com/media/xT0xeMA62E1XIlup68/giphy.gif>
+  <img src="https://media.giphy.com/media/xT0xeMA62E1XIlup68/giphy.gif" width="100%" alt="Calm Nature Anime">
   <h2 style="font-family: 'Roboto', sans-serif; color: #4B8BBE; margin-top: -50px;">Learn from & grind to surpass your mentors and peers, and with time be above all</h2>
 </div>
 
