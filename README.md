@@ -27,8 +27,6 @@
   - 📊 **Database Management:** Designing and managing databases to optimize performance and ensure data integrity.
   - 🔢 **Mathematics:** Applying mathematical concepts and techniques to solve engineering problems and optimize algorithms.
 
-- **Tools:** 🧩 Git, VS Code, IntelliJ IDEA, Eclipse, Netbeans
-
 ### Hobbies:
 - 📸 Modeling with OrangeModels Management
 - 🥊 Hosted a boxing club at TMU (university) where I coach people
