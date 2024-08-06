@@ -1,8 +1,8 @@
 ## Sayeed Ahmed
 
-👨‍💻 **Software Developer**
+👨‍💻 **Software Engineer & Developer**
 
-🚀 Passionate about coding and always eager to learn and implement new technologies. Skilled in various programming languages including C, C++, Java, Python, and HTML. With a strong foundation in software development, I am committed to creating efficient and innovative solutions.
+🚀 Passionate about coding and always eager to learn and implement new technologies. Skilled in various programming languages including C, C++, Java, Python, and SQL. With a strong foundation in software development and engineering principles, I am committed to creating efficient and innovative solutions.
 
 ### Skills:
 - **Languages:**
@@ -19,7 +19,13 @@
   [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
   [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 
-- **Development:** 🛠️ Software Development, Problem Solving, Object-Oriented Programming
+- **Development & Engineering:**
+  🛠️ **Software Development:** Design, develop, and maintain software applications.
+  🔍 **Problem Solving:** Analyzing and solving complex problems effectively.
+  🏗️ **Object-Oriented Programming:** Utilizing OOP principles for efficient and scalable code.
+  ⚙️ **System Design:** Architecting and designing robust and scalable systems.
+  📊 **Database Management:** Designing and managing databases for optimal performance.
+
 - **Tools:** 🧩 Git, VS Code, IntelliJ IDEA, Eclipse, Netbeans
 
 ### Hobbies:
