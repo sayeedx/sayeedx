@@ -20,6 +20,9 @@
 - 🥊 Launched a boxing club at TMU (university) where I manage the club & coach people
 - 💪 Creating fitness content & gym 4 times per week
 - 🥋 Practicing MMA
+- 📷 Wedding shoots and TFP Photography on side
+- 👔 Running a fashion business - custom luxury menswear
+
 
 <div>
   <h3>🌐 Connect with me:</h3>
