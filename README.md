@@ -24,12 +24,6 @@
 - 📷 Doing photography on the side
 - 👔 Running a fashion business to create custom luxury menswear
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; text-align: left; padding: 20px;">
-    <h2 style="font-family: 'Roboto', sans-serif; color: #4B8BBE;">Learn from & grind to surpass your mentors and peers, and with time be above all</h2>
-  </div>
-</div>
-
 <div>
   <h3>🌐 Connect with me:</h3>
   <a href="https://www.linkedin.com/in/sayeed-ahmed-b85366232/" target="_blank" style="margin-right: 10px;">
