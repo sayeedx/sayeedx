@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21xdng3MzQyZGJ5OXdwbWloMTB5NGo1cXJibDRoaWdpcTRwcWJ4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUA7b4arnbo3THfzi0/giphy.gif" width="100%" alt="Calm Nature Anime">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21xdng3MzQyZGJ5OXdwbWloMTB5NGo1cXJibDRoaWdpcTRwcWJ4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUA7b4arnbo3THfzi0/giphy.gif" width="20%" alt="Calm Nature Anime">
   <h2 style="font-family: 'Roboto', sans-serif; color: #4B8BBE; margin-top: -50px;">Learn from & grind to surpass your mentors and peers, and with time be above all</h2>
 </div>
 
