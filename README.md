@@ -13,4 +13,4 @@ Passionate about coding and always eager to learn and implement new technologies
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/sayeed-ahmed-b85366232/)
 [ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:asayeed216@gmail.com)
 
-![Baki](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
+![Baki](https://www.picmix.com.stamp/BAKI-2273345)
