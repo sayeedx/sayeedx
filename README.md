@@ -1,12 +1,14 @@
-Sayeed Ahmed
-👨‍💻 Software Developer
+## Sayeed Ahmed
+
+👨‍💻 **Software Developer**
 
 🚀 Passionate about coding and always eager to learn and implement new technologies. Skilled in various programming languages including C, C++, Java, Python, and HTML. With a strong foundation in software development, I am committed to creating efficient and innovative solutions.
 
-Skills:
-Languages: 🖥️ C, C++, Java, Python, HTML
-Development: 🛠️ Software Development, 🧩 Problem Solving, 🏗️ Object-Oriented Programming
-Tools: 🛠️ Git, VS Code, IntelliJ IDEA, Eclipse
+### Skills:
+- **Languages:** 🖥️ C, C++, Java, Python, HTML
+- **Development:** 🛠️ Software Development, 🧩 Problem Solving, 🏗️ Object-Oriented Programming
+- **Tools:** 🛠️ Git, VS Code, IntelliJ IDEA, Eclipse
+
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
     <h3>🌐 Connect with me:</h3>
