@@ -9,8 +9,12 @@ Passionate about coding and always eager to learn and implement new technologies
 - **Development:** Software Development, Problem Solving, Object-Oriented Programming
 - **Tools:** Git, VS Code, IntelliJ IDEA, Eclipse
 
-### Connect with me:
-[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/sayeed-ahmed-b85366232/)
-[ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:asayeed216@gmail.com)
+<div style="display: flex; align-items: center;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGd1dTV1MXJ0eDRyamNuYzJuMXRxcW5nYjI2MGdmb2QwNTg5c2RhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NTNUwDGxpIirRFJzKm/giphy.gif" width="150" />
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGd1dTV1MXJ0eDRyamNuYzJuMXRxcW5nYjI2MGdmb2QwNTg5c2RhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NTNUwDGxpIirRFJzKm/giphy.gif" width="300" />
+  <div style="margin-left: 20px;">
+    ### Connect with me:
+    [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/sayeed-ahmed-b85366232/)
+    [ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:asayeed216@gmail.com)
+  </div>
+</div>
