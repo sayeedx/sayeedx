@@ -33,7 +33,7 @@
 - 📹 Creating fitness content
 - 💪 Going to the gym
 - 🥋 Practicing MMA
-- 📷 Doing photography on the side
+- 📷 Wedding shoots & TFP with Models
 - 👔 Running a fashion business to create custom luxury menswear
 
 <div>
