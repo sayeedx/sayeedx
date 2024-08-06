@@ -10,9 +10,9 @@
 - **Tools:** 🛠️ Git, VS Code, IntelliJ IDEA, Eclipse
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
+  <div style="display: flex; flex-direction: column;">
     <h3>🌐 Connect with me:</h3>
-    <a href="https://www.linkedin.com/in/sayeed-ahmed-b85366232/" target="_blank" style="margin-right: 10px;">
+    <a href="https://www.linkedin.com/in/sayeed-ahmed-b85366232/" target="_blank" style="margin-bottom: 10px;">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:asayeed216@gmail.com" target="_blank">
