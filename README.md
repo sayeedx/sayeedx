@@ -8,6 +8,7 @@
 - **Languages:** 🖥️ C, C++, Java, Python, HTML
 - **Development:** 🛠️ Software Development, 🧩 Problem Solving, 🏗️ Object-Oriented Programming
 - **Tools:** 🛠️ Git, VS Code, IntelliJ IDEA, Eclipse
+- **Learning:** 🛠️ React, Tailwind CSS
 
 <div>
   <h3>🌐 Connect with me:</h3>
