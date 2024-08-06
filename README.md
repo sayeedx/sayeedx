@@ -28,7 +28,7 @@
   - 🔢 **Mathematics:** Applying mathematical concepts and techniques to solve engineering problems and optimize algorithms.
 
 ### Hobbies:
-- 📸 Modeling with OrangeModels Management
+- 📸 Model & Actor with OrangeModels Management
 - 🥊 Hosted a boxing club at TMU (university) where I coach people
 - 📹 Creating fitness content
 - 💪 Going to the gym
