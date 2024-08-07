@@ -21,7 +21,6 @@
   [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
   [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://en.wikipedia.org/wiki/Amazon_Web_Services)
 
-
 - **Development & Engineering:**
   - 🛠️ **Software Development:** Design, develop, and maintain software applications, ensuring functionality and performance.
   - 🌐 **Full Stack Development:** Proficient in both front-end and back-end development, capable of building comprehensive web applications.
@@ -29,13 +28,7 @@
   - 🔍 **Problem Solving:** Analyzing complex problems and providing effective solutions.
   - ⚙️ **System Design:** Architecting robust and scalable systems tailored to specific needs.
   - 📊 **Database Management:** Designing and managing databases to optimize performance and ensure data integrity.
-
-- **Production Application Support Analyst:**
-  - Manage and resolve complex technical issues efficiently.
-  - Lead project coordination for client onboarding, synchronizing technology teams.
-  - Evaluate service requests for standards adherence and problem impact analysis.
-  - Analyze technical information for risk assessment and feasibility.
-  - Experience with Axway, Autosys, Microsoft Azure, etc.
+  - 🛡️ **Application Support:** Experienced in managing and resolving complex technical issues, coordinating project efforts, and evaluating service requests for optimal end-to-end solutions.
 
 ### Hobbies:
 - 📸 Model & Actor with OrangeModels Management
