@@ -13,6 +13,7 @@
   [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
 - **In Progress:**
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://en.wikipedia.org/wiki/Tailwind_CSS)
   [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://en.wikipedia.org/wiki/React_(JavaScript_library))
   [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://en.wikipedia.org/wiki/PHP)
@@ -21,11 +22,18 @@
 
 - **Development & Engineering:**
   - 🛠️ **Software Development:** Design, develop, and maintain software applications, ensuring functionality and performance.
-  - 🔍 **Problem Solving:** Expertise in analyzing complex problems and providing effective solutions.
-  - 🏗️ **Object-Oriented Programming:** Utilizing OOP principles to create modular, maintainable, and scalable code.
-  - ⚙️ **System Design:** Architecting robust and scalable systems tailored to specific needs and requirements.
+  - 🌐 **Full Stack Development:** Proficient in both front-end and back-end development, capable of building comprehensive web applications.
+  - 🎨 **UX/UI Design:** Skilled in creating user-friendly and aesthetically pleasing interfaces.
+  - 🔍 **Problem Solving:** Analyzing complex problems and providing effective solutions.
+  - ⚙️ **System Design:** Architecting robust and scalable systems tailored to specific needs.
   - 📊 **Database Management:** Designing and managing databases to optimize performance and ensure data integrity.
-  - 🔢 **Mathematics:** Applying mathematical concepts and techniques to solve engineering problems and optimize algorithms.
+
+- **Production Application Support Analyst:**
+  - Manage and resolve complex technical issues efficiently.
+  - Lead project coordination for client onboarding, synchronizing technology teams.
+  - Evaluate service requests for standards adherence and problem impact analysis.
+  - Analyze technical information for risk assessment and feasibility.
+  - Experience with Axway, Autosys, Microsoft Azure, etc.
 
 ### Hobbies:
 - 📸 Model & Actor with OrangeModels Management
