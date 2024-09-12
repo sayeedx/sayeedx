@@ -31,10 +31,11 @@
   - 🛡️ **Application Support:** Experienced in managing and resolving complex technical issues, coordinating project efforts, and evaluating service requests for optimal end-to-end solutions.
 
 ### Hobbies:
+- RADIANT IN VALORANT
 - 📸 Model & Actor with OrangeModels Management
 - 🥊 Hosted a boxing club at TMU (university) where I coach people
 - 📹 Creating fitness content
-- 💪 Going to the gym
+- 💪 Gym & Personal Trainer
 - 🥋 Practicing MMA
 - 📷 Wedding shoots & TFP with Models
 - 👔 Running a fashion business to create custom luxury menswear
