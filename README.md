@@ -31,7 +31,7 @@
   - 🛡️ **Application Support:** Experienced in managing and resolving complex technical issues, coordinating project efforts, and evaluating service requests for optimal end-to-end solutions.
 
 ### Hobbies:
-- RADIANT IN VALORANT
+- TMU Esports - Professional Valorant Player, Coach, Analyst, & Manager
 - 🥊 Hosted a boxing club at TMU (university) where I coach people
 - 📹 Creating fitness content
 - 💪 Gym & Personal Trainer
