@@ -32,13 +32,11 @@
 
 ### Hobbies:
 - RADIANT IN VALORANT
-- 📸 Model & Actor with OrangeModels Management
 - 🥊 Hosted a boxing club at TMU (university) where I coach people
 - 📹 Creating fitness content
 - 💪 Gym & Personal Trainer
 - 🥋 Practicing MMA
-- 📷 Wedding shoots & TFP with Models
-- 👔 Running a fashion business to create custom luxury menswear
+- 📷 Professional Photographer
 
 <div>
   <h3>🌐 Connect with me:</h3>
