@@ -47,5 +47,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGd1dTV1MXJ0eDRyamNuYzJuMXRxcW5nYjI2MGdmb2QwNTg5c2RhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NTNUwDGxpIirRFJzKm/giphy.gif" width="150" />
