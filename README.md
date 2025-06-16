@@ -5,6 +5,14 @@
 🚀 As a backend developer, I build scalable systems and leverage machine learning to solve real-world problems. My passion lies in coding and continuously exploring new technologies, committed to creating efficient and innovative solutions. My expertise includes cloud integrations, robust API development, and crafting intelligent ML personalization systems. I hold Machine Learning certificates from the University of Waterloo.
 
 ### Skills:
+- ### 🚀 Machine Learning & Cloud:
+  [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)
+  [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+  [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+  [![Deep Learning](https://img.shields.io/badge/Deep_Learning-792EE5?style=for-the-badge&logo=openai&logoColor=white)](https://en.wikipedia.org/wiki/Deep_learning)
+  [![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/products/machine-learning)
+  [![Google Cloud ML](https://img.shields.io/badge/Google_Cloud_ML-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/ai-platform)
+  
 - **Languages:**
   [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
   [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
