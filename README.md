@@ -5,7 +5,7 @@
 🚀 As a backend developer, I build scalable systems and leverage machine learning to solve real-world problems. My passion lies in coding and continuously exploring new technologies, committed to creating efficient and innovative solutions. My expertise includes cloud integrations, robust API development, and crafting intelligent ML personalization systems. I hold Machine Learning certificates from the University of Waterloo.
 
 ### Skills:
-- ### 🚀 Machine Learning & Cloud:
+- **Machine Learning & Cloud**
   [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)
   [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
   [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -19,8 +19,6 @@
   [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_(programming_language))
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
   [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-
-- **In Progress:**
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://en.wikipedia.org/wiki/Tailwind_CSS)
   [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://en.wikipedia.org/wiki/React_(JavaScript_library))
