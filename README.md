@@ -25,16 +25,7 @@
   [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://en.wikipedia.org/wiki/PHP)
   [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 
-- **Development & Engineering:**
-  - 🛠️ **Software Development:** Designing, developing, and maintaining robust software applications with a focus on functionality and performance.
-  - 🌐 **Full Stack Development:** Building comprehensive web applications, proficient in both front-end and back-end technologies.
-  - 🎨 **UX/UI Design:** Crafting user-centric and visually engaging interfaces.
-  - 🔍 **Problem Solving:** Analyzing complex challenges and devising effective, practical solutions.
-  - ⚙️ **System Design:** Architecting scalable and resilient systems tailored to intricate requirements.
-  - 📊 **Database Management:** Designing, implementing, and optimizing databases to ensure high performance and data integrity.
-  - 🛡️ **Application Support & Project Coordination:** Resolving complex technical issues, coordinating project efforts, and evaluating service requests for optimal end-to-end solutions.
-  - ☁️ **Cloud Integrations:** Expertise in seamlessly connecting and managing cloud-based services.
-  - 🔌 **API Development:** Designing and implementing robust Application Programming Interfaces for diverse system interactions.
+- **Development & Engineering:** Skilled in full stack development, system architecture, and API design. Experienced in building robust software with cloud integrations, database management, and intuitive UI/UX. Strong problem-solver with hands-on experience in application support and project coordination.
 
 ### Hobbies:
 - 🎮 TMU Esports: Valorant Pro Player, Coach, Analyst, & Manager
