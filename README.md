@@ -11,7 +11,7 @@
   [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
   [![Deep Learning](https://img.shields.io/badge/Deep_Learning-792EE5?style=for-the-badge&logo=openai&logoColor=white)](https://en.wikipedia.org/wiki/Deep_learning)
   [![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/products/machine-learning)
-    [![Google Cloud ML](https://img.shields.io/badge/Google_Cloud_ML-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/ai-platform)
+  [![Google Cloud ML](https://img.shields.io/badge/Google_Cloud_ML-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/ai-platform)
   
 - **Languages:**
   [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
