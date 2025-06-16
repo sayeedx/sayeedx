@@ -1,8 +1,8 @@
 ## Sayeed Ahmed
 
-👨‍💻 **Software Engineer & Developer**
+👨‍💻 **Computer Software Engineer | Machine Learning Engineer**
 
-🚀 Passionate about coding and always eager to learn and implement new technologies. Skilled in various programming languages including C, C++, Java, Python, and SQL. With a strong foundation in software development and engineering principles, I am committed to creating efficient and innovative solutions.
+🚀 As a backend developer, I build scalable systems and leverage machine learning to solve real-world problems. My passion lies in coding and continuously exploring new technologies, committed to creating efficient and innovative solutions. My expertise includes cloud integrations, robust API development, and crafting intelligent ML personalization systems. I hold Machine Learning certificates from the University of Waterloo.
 
 ### Skills:
 - **Languages:**
@@ -22,19 +22,19 @@
   [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://en.wikipedia.org/wiki/Amazon_Web_Services)
 
 - **Development & Engineering:**
-  - 🛠️ **Software Development:** Design, develop, and maintain software applications, ensuring functionality and performance.
-  - 🌐 **Full Stack Development:** Proficient in both front-end and back-end development, capable of building comprehensive web applications.
-  - 🎨 **UX/UI Design:** Skilled in creating user-friendly and aesthetically pleasing interfaces.
-  - 🔍 **Problem Solving:** Analyzing complex problems and providing effective solutions.
-  - ⚙️ **System Design:** Architecting robust and scalable systems tailored to specific needs.
-  - 📊 **Database Management:** Designing and managing databases to optimize performance and ensure data integrity.
-  - 🛡️ **Application Support:** Experienced in managing and resolving complex technical issues, coordinating project efforts, and evaluating service requests for optimal end-to-end solutions.
+  - 🛠️ **Software Development:** Designing, developing, and maintaining robust software applications with a focus on functionality and performance.
+  - 🌐 **Full Stack Development:** Building comprehensive web applications, proficient in both front-end and back-end technologies.
+  - 🎨 **UX/UI Design:** Crafting user-centric and visually engaging interfaces.
+  - 🔍 **Problem Solving:** Analyzing complex challenges and devising effective, practical solutions.
+  - ⚙️ **System Design:** Architecting scalable and resilient systems tailored to intricate requirements.
+  - 📊 **Database Management:** Designing, implementing, and optimizing databases to ensure high performance and data integrity.
+  - 🛡️ **Application Support & Project Coordination:** Resolving complex technical issues, coordinating project efforts, and evaluating service requests for optimal end-to-end solutions.
+  - ☁️ **Cloud Integrations:** Expertise in seamlessly connecting and managing cloud-based services.
+  - 🔌 **API Development:** Designing and implementing robust Application Programming Interfaces for diverse system interactions.
 
 ### Hobbies:
 - 🎮 TMU Esports: Valorant Pro Player, Coach, Analyst, & Manager
-- 🥊 TMU Boxing: Founder, Coach, & VP of Finance
-- 💪 Gym & Personal Trainer
-- 🥋 Practicing MMA
+- 🥊 TMU Muay Thai: Founder, Coach, & VP of Finance
 - 📷 Professional Photographer
 
 <div>
