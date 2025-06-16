@@ -17,9 +17,7 @@
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://en.wikipedia.org/wiki/Tailwind_CSS)
   [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://en.wikipedia.org/wiki/React_(JavaScript_library))
   [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://en.wikipedia.org/wiki/PHP)
-  [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
   [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
-  [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://en.wikipedia.org/wiki/Amazon_Web_Services)
 
 - **Development & Engineering:**
   - 🛠️ **Software Development:** Designing, developing, and maintaining robust software applications with a focus on functionality and performance.
