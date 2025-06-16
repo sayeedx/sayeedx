@@ -2,7 +2,7 @@
 
 👨‍💻 **Computer Software Engineer | Machine Learning Engineer**
 
-🚀 As a backend developer, I build scalable systems and leverage machine learning to solve real-world problems. My passion lies in coding and continuously exploring new technologies, committed to creating efficient and innovative solutions. My expertise includes cloud integrations, robust API development, and crafting intelligent ML personalization systems. I hold Machine Learning certificates from the University of Waterloo.
+As a backend developer, I build scalable systems and leverage machine learning to solve real-world problems. My passion lies in coding and continuously exploring new technologies, committed to creating efficient and innovative solutions. My expertise includes cloud integrations, robust API development, and crafting intelligent ML personalization systems. I hold Machine Learning certificates from the University of Waterloo.
 
 ### Skills:
 - **Machine Learning & Cloud**
