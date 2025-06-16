@@ -33,7 +33,7 @@ As a backend developer, I build scalable systems and leverage machine learning t
 - 📷 Professional Photographer
 
 <div>
-  <h3>🌐 Connect with me:</h3>
+  <h3>Connect with me:</h3>
   <a href="https://www.linkedin.com/in/sayeed-ahmed-b85366232/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
