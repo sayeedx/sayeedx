@@ -29,7 +29,7 @@ As a backend developer, I build scalable systems and leverage machine learning t
 
 ### Hobbies:
 - 🎮 TMU Esports: Valorant Pro Player, Coach, Analyst, & Manager
-- 🥊 TMU Muay Thai: Founder, Coach, & VP of Finance
+- 🥊 TMU Muay Thai: Founder, President
 - 📷 Professional Photographer
 
 <div>
